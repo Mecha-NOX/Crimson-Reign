@@ -45,9 +45,8 @@
 
 ## **Screenshots / GIFs**
 
-![CrimsonReign1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
-![CrimsonReign2](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
-![CrimsonReign3](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
+![CrimsonReign1](https://github.com/Mecha-NOX/Crimson-Reign/blob/a25e80371f11529981b74ab1a8296420be9e41f4/GIFs/Crimson-Reign_First.gif)
+![CrimsonReign2](https://github.com/Mecha-NOX/Crimson-Reign/blob/a25e80371f11529981b74ab1a8296420be9e41f4/GIFs/Crimson-Reign_Second.gif)
 
 ---
 
