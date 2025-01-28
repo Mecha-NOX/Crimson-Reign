@@ -61,7 +61,7 @@ Watch the gameplay video on YouTube to see [Crimson Reign Gameplay](https://yout
 1. Clone the repository to your local machine.  
 
     ```bash
-        git clone https://github.com/Mecha-NOX/Crimson-Reign
+        git clone https://github.com/Mecha-NOX/Crimson-Reign.git
     ```
 
 2. Open the project in Unreal Engine 4.7.  
